@@ -1,0 +1,23 @@
+html{}
+body{
+    background: linear-gradient(180deg, #F9E9D4 20.78%, #B7B0AC 100%);
+    
+}
+#title{
+    margin-left:20vw;
+    width:33vw;
+    font-family:Poly;
+}
+.logo{
+    width:89px;
+    height:84.73px;
+}
+#subtitle{
+    font-family:Poly;
+    text-shadow: 1px 1px 2px black;
+}
+.navbar{
+
+}
+
+
